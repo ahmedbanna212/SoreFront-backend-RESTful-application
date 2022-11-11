@@ -40,4 +40,4 @@ Database port  :  `5432`
 Server port  :  `3000`
 
 # installation_Instructions
-the project is uploaded with node_modules but if it did not exist just run command => `npm install`
+clone the progect and  just run command => `npm install`
