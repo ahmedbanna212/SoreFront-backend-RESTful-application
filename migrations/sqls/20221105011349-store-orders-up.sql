@@ -1,0 +1,5 @@
+CREATE TABLE orders(
+    ID  SERIAL PRIMARY KEY,
+    User_ID INT REFERENCES users(ID),
+    Status VARCHAR(30)
+);
