@@ -9,7 +9,7 @@
 * [ports](#ports)
 ## ProjectDecription
 
-this is a RESTful store CRUD application that promotes security by hashing user account password and using jsonWebToken to protect endpoints sensitive data
+RESTful storefront application made with TypeScript, Express and SQL database. the project promotes security by hashing user account password and promotes authorization using jsonWebToken to protect endpoints sensitive data. the endpoints and the database functionlates were all tested usinf jasmine unit testing 
 
 
 ## ToolsUsed
